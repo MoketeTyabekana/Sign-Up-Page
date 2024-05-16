@@ -1,0 +1,6 @@
+logo:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdsb7oE6wVTurork--viVFVJz9mPwEdhOiw&s
+
+challenge figma design:
+https://www.figma.com/design/7VaD0MgeysusWhSZLxs8NO/Dev-UI-Chalenge---Web-Developer?m=dev&node-id=1%3A500&t=PJdKsiOjxBtANNh1-1
+
